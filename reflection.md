@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learnt how to use Python functions to clean raw scraped text and convert it into structured data. I had to strip out keywords like "NEW!", "S", "V", etc., and ensure prices were cleaned and converted to floats. I found it confusing at first to know what parts of the scraped text were important vs. metadata or tags. Reading the test data examples helped clarify what clean output should look like. I want to get better at writing robust cleaning functions that can handle edge cases without crashing the pipeline.
